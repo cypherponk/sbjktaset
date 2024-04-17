@@ -1,0 +1,74 @@
+{
+  "edition": 11,
+  "name": "SBJKT #11",
+  "description": "SBJKT is a free to claim 100.000 pixel NFTs on Tezos ",
+  "artifactUri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+  "displayUri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+  "thumbnailUri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+  "decimals": 0,
+  "attributes": [
+    {
+      "name": "Background",
+      "value": "Blue"
+    },
+    {
+      "name": "Base",
+      "value": "Male"
+    },
+    {
+      "name": "Torso",
+      "value": "Shirts (Red)"
+    },
+    {
+      "name": "Top",
+      "value": "Flat (Green)"
+    },
+    {
+      "name": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "name": "Eyes",
+      "value": "Glasses (Blue)"
+    }
+  ],
+  "creators": [
+    "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr"
+  ],
+  "isBooleanAmount": true,
+  "symbol": "SBJKT",
+  "rights": "CC0",
+  "shouldPreferSymbol": false,
+  "formats": [
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+      "dimensions": {
+        "value": "2048x2048",
+        "unit": "px"
+      }
+    },
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+      "dimensions": {
+        "value": "500x500",
+        "unit": "px"
+      }
+    },
+    {
+      "mimeType": "image/png",
+      "uri": "ipfs://QmRhh2jPKV1TN2ebywrw38RrvFoGR5kERcwEUu4EErb6fs/11.png",
+      "dimensions": {
+        "value": "300x300",
+        "unit": "px"
+      }
+    }
+  ],
+  "royalties": {
+    "decimals": 3,
+    "shares": {
+      "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr": 125
+    }
+  }
+}
